@@ -1,0 +1,13 @@
+.navbar12{
+    background-color: transparent;
+    position: fixed;
+    width: 100VW;
+    z-index: 1;
+}
+body{
+    background-color: black;
+}
+.h1{
+    color: aliceblue;
+    text-align: center;
+}
