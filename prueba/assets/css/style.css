@@ -11,3 +11,13 @@ body{
     color: aliceblue;
     text-align: center;
 }
+.bodyS {
+    font-family: "Raleway", sans-serif;
+    color: #fff;
+    background-color: black;
+    text-align: center;
+  }
+  .alinea{
+      text-align: left;
+
+  }
